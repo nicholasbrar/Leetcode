@@ -1,3 +1,5 @@
+My leetcode can be found [here](https://leetcode.com/u/nicholasbrar/)
+
 ## Leetcode Solutions
 
 | #   | Title                                                                                                  | Solution                                                     | Difficulty |
