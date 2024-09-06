@@ -1,4 +1,6 @@
-| Left-Aligned  | Center Aligned  | Right Aligned |
+Leetcode Solutions
+
+| #  | Title  | Solution | Difficulty |
 | :------------ |:---------------:| -----:|
 | col 3 is      | some wordy text | $1600 |
 | col 2 is      | centered        |   $12 |
