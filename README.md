@@ -1,5 +1,8 @@
 My leetcode can be found [here](https://leetcode.com/u/nicholasbrar/)
 
+Probems with * are ones I've completed and will add solutions soon. 
+
+
 ## Leetcode Solutions  
 
 | #   | Title                                                                                                  | Solution                                                     | Difficulty |
