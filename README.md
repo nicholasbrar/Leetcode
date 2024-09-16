@@ -14,7 +14,7 @@ Probems with * are ones I've completed and will add solutions soon.
 | 172   | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)      | [C++](solutions/172-Factorial-Trailing-Zeroes.cpp)      | Medium      |
 | 191   | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)                        | [C++](solutions/191-Number-Of-1-Bits.cpp)                     | Easy      |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number/description/)                                 | [C++](solutions/202-Happy-Number.cpp)                         | Easy       |
-| 217  | Contains Duplicate*                                                                                     | [C++](solutions/217-Contains-Duplicate.cpp)                   | Easy       |
+| 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                     | [C++](solutions/217-Contains-Duplicate.cpp)                   | Easy       |
 | 231  | Power of Two*                                                                                           | [C++](solutions/231-Power-Of-Two.cpp)                         | Easy       |
 | 237  | Delete Node in a Linked List*                                                                           | [C++](solutions/237-Delete-Node-In-A-Linked-List.cpp)         | Medium     |
 | 242  | Valid Anagram*                                                                                          | [C++](solutions/242-Valid-Anagram.cpp)                        | Easy       |
