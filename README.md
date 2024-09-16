@@ -16,7 +16,7 @@ Probems with * are ones I've completed and will add solutions soon.
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number/description/)                                 | [C++](solutions/202-Happy-Number.cpp)                         | Easy       |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                     | [C++](solutions/217-Contains-Duplicate.cpp)                   | Easy       |
 | 231  | [Power of Two](https://leetcode.com/problems/power-of-two/description/)                                 | [C++](solutions/231-Power-Of-Two.cpp)                         | Easy       |
-| 242  | Valid Anagram*                                                                                          | [C++](solutions/242-Valid-Anagram.cpp)                        | Easy       |
+| 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                               | [C++](solutions/242-Valid-Anagram.cpp)                        | Easy       |
 | 263  | Ugly Number*                                                                                            | [C++](solutions/263-Ugly-Number.cpp)                          | Easy       |
 | 268  | Missing Number*                                                                                         | [C++](solutions/268-Missing-Number.cpp)                       | Easy       |
 | 283  | Move Zeroes*                                                                                            | [C++](solutions/283-Move-Zeroes.cpp)                          | Easy       |
