@@ -47,7 +47,7 @@ Probems with * are ones I've completed and will add solutions soon.
 | 2703 | Return Length of Arguments Passed*                                                                      | [C++](solutions/2703-Return-Length-Of-Arguments-Passed.cpp)   | Easy       |
 | 2769 | Find the Maximum Achievable Number*                                                                     | [C++](solutions/2769-Find-Maximum-Achievable-Number.cpp)      | Easy       |
 | 2827 | Number of Beautiful Integers in the Range*                                                              | [C++](solutions/2827-Number-Of-Beautiful-Integers.cpp)        | Hard       |
-| 2879 | Display the First Three Rows*                                                                           | [C++](solutions/2879-Display-First-Three-Rows.cpp)            | Easy       |
+| 2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/description/) | [Python](solutions/2879-Display-First-Three-Rows.py)             | Easy       |
 | 2894 | Divisible and Non-divisible Sums Difference*                                                            | [C++](solutions/2894-Divisible-And-Non-Divisible-Sums.cpp)    | Easy       |
 | 2942 | Find Words Containing Character*                                                                        | [C++](solutions/2942-Find-Words-Containing-Character.cpp)     | Easy       |
 | 3099 | Harshad Number*                                                                                         | [C++](solutions/3099-Harshad-Number.cpp)                      | Easy       |
