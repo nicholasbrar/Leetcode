@@ -18,7 +18,7 @@ Probems with * are ones I've completed and will add solutions soon.
 | 231  | [Power of Two](https://leetcode.com/problems/power-of-two/description/)                                 | [C++](solutions/231-Power-Of-Two.cpp)                         | Easy       |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                               | [C++](solutions/242-Valid-Anagram.cpp)                        | Easy       |
 | 263  | [Ugly Number](https://leetcode.com/problems/ugly-number/description/)                                   | [C++](solutions/263-Ugly-Number.cpp)                          | Easy       |
-| 268  | [Missing Number](https://leetcode.com/problems/missing-number/description/)                             | [C++](solutions/268-Missing-Number.cpp)                       | Easy       |
+| 268  | [Missing Number](https://leetcode.com/problems/missing-number/description/)                             | [C++ (Naive)](solutions/268-Missing-Number.cpp), [C++ (Optimal)](solutions/268-Missing-Number2.cpp | Easy       |
 | 283  | Move Zeroes*                                                                                            | [C++](solutions/283-Move-Zeroes.cpp)                          | Easy       |
 | 509  | Fibonacci Number*                                                                                       | [C++](solutions/509-Fibonacci-Number.cpp)                     | Easy       |
 | 657  | Robot Return to Origin*                                                                                 | [C++](solutions/657-Robot-Return-To-Origin.cpp)               | Easy       |
