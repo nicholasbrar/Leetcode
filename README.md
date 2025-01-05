@@ -42,6 +42,7 @@ Probems with * are ones I've completed and will add solutions soon.
 | 2469 | Convert the Temperature*                                                                                | [C++](solutions/2469-Convert-The-Temperature.cpp)             | Easy       |
 | 2485 | Find the Pivot Integer*                                                                                 | [C++](solutions/2485-Find-The-Pivot-Integer.cpp)              | Easy       |
 | 2520 | Count the Digits That Divide a Number*                                                                  | [C++](solutions/2520-Count-The-Digits.cpp)                    | Easy       |
+| 2535 | Difference Between Element Sum and Digit Sum of an Array | [C__](solutions/2535-Difference-Between-Element-Sum-And-Digit-Sum-Of-An-Array | Easy |
 | 2651 | Calculate Delayed Arrival Time*                                                                         | [C++](solutions/2651-Delayed-Arrival-Time.cpp)                | Easy       |
 | 2652 | Sum Multiples*                                                                                          | [C++](solutions/2652-Sum-Multiples.cpp)                       | Easy       |
 | 2703 | Return Length of Arguments Passed*                                                                      | [C++](solutions/2703-Return-Length-Of-Arguments-Passed.cpp)   | Easy       |
