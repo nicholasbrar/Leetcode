@@ -1,0 +1,20 @@
+class Solution {
+public:
+    int differenceOfSum(vector<int>& nums) {
+        int element_sum = 0;
+        int digit_sum = 0;
+
+        for(int n : nums){
+            element_sum += n;
+            while(n > 0){
+                int digit = n % 10;
+                digit_sum += digit;
+                n /= 10;
+            }
+        }
+
+        int difference = element_sum - digit_sum; 
+
+        return(difference > 0 ? difference : (difference * -1));
+}
+};
