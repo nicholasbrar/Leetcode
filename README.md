@@ -1,4 +1,4 @@
-My leetcode can be found [here](https://leetcode.com/u/nicholasbrar/)
+Leetcode. 
 
 Probems with * are ones I've completed and will add solutions soon. 
 
